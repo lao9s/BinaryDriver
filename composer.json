@@ -1,5 +1,5 @@
 {
-    "name": "alchemy/binary-driver",
+    "name": "php-ffmpeg/binary-driver",
     "type": "library",
     "description": "A set of tools to build binary drivers",
     "keywords": ["binary", "driver"],
@@ -18,6 +18,12 @@
             "name": "Phraseanet Team",
             "email": "info@alchemy.fr",
             "homepage": "http://www.phraseanet.com/"
+        },
+        {
+            "name": "Jens Hausdorf",
+            "email": "hello@jens-hausdorf.de",
+            "homepage": "https://jens-hausdorf.de",
+            "role": "Maintainer"
         }
     ],
     "require": {
