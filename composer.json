@@ -40,5 +40,9 @@
         "psr-0": {
             "Alchemy": "src"
         }
+    },
+
+    "replace": {
+        "alchemy/binary-driver": "1.6.0"
     }
 }
